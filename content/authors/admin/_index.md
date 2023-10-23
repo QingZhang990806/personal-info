@@ -3,7 +3,7 @@
 title: 张晴 Qing Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Qing Zhang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Qing
