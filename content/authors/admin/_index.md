@@ -55,11 +55,6 @@ education:
 skills:
   - name: Technical
     items:
-    - name: R Programming
-      description: ''
-      percent: 80
-      icon: computer
-      icon_pack: fab
     - name: Python
       description: ''
       percent: 100
@@ -77,7 +72,7 @@ skills:
       - name: Figure skating
         description: ''
         percent: 60
-        icon: ice-skate
+        icon: person-skate
         icon_pack: fas
       - name: Dogs
         description: ''
@@ -118,7 +113,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Qing_Zhang_CV(1).pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
