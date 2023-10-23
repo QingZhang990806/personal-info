@@ -76,7 +76,7 @@ skills:
     items:
       - name: Figure Skating
         description: ''
-        percent: 60
+        percent: 80
         icon: person-skating
         icon_pack: fas
       - name: Dogs
@@ -86,7 +86,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera-retro
         icon_pack: fas
 
