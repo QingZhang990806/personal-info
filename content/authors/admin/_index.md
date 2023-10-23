@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qing Zhang 张晴
+title: Qing Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: Qing Zhang
@@ -30,7 +30,7 @@ bio: My research interests include medical statistics and linear mixed models.
 # Interests to show in About widget
 interests:
   - Medical Statistics
-  - (Bayesian) (Generalised) Linear Mixed Model
+  - (Bayesian) Linear Mixed Model
   - Survival Analysis
   - Machine Learning
 
@@ -47,7 +47,7 @@ education:
       institution: Yunnan University (China)
       year: 2017-2021
     - course: Game Theory
-      institution: University of British Columbia
+      institution: University of British Columbia (Canada)
       year:2019
 
 # Skills
@@ -69,11 +69,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Figure skating
-        description: ''
-        percent: 60
-        icon: person-skate
-        icon_pack: fas
       - name: Dogs
         description: ''
         percent: 100
