@@ -40,7 +40,7 @@ education:
     - course: MSc in Statistics
       institution: University of St Andrews (UK)
       year: 2022
-    - course: BSc in Mathematics and Statistics
+    - course: BSc (Hons) in Mathematics and Statistics
       institution: Univiersity of Plymouth (UK)
       year: 2021
     - course: BSc in Statistics
