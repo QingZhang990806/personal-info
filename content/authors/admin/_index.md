@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️👩‍💻
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -97,15 +97,15 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:qing.zhang@durham.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/QingZ_Lavinia
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Sr_DbHYAAAAJ
   - icon: github
     icon_pack: fab
