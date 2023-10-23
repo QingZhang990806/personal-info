@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qing Zhang
+title: Qing Zhang 张晴
 
 # Name pronunciation (optional)
 name_pronunciation: Qing Zhang
