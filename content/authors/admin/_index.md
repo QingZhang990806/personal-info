@@ -63,7 +63,12 @@ skills:
     - name: R (Programming)
       description: ''
       percent: 80
-      icon: database
+      icon: display-chart-up
+      icon_pack: fas
+    - name: SAS (Programming)
+      description: ''
+      percent: 60
+      icon: display-chart-up
       icon_pack: fas
     - name: Python (Programming)
       description: ''
