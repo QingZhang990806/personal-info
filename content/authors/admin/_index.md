@@ -74,10 +74,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Figure Skating
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: person-skating
         icon_pack: fas
       - name: Dogs
         description: ''
