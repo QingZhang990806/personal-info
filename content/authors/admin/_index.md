@@ -48,28 +48,28 @@ education:
       year: 2021
     - course: Game Theory
       institution: University of British Columbia (Canada)
-      year: 2021
+      year: 2019
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Statistician
       description: ''
       percent: 80
-      icon: python
-      icon_pack: fab
-    - name: Data Science
-      description: ''
-      percent: 100
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: R (Programming)
       description: ''
-      percent: 40
+      percent: 80
       icon: database
       icon_pack: fas
+    - name: Python (Programming)
+      description: ''
+      percent: 40
+      icon: python
+      icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
