@@ -63,9 +63,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: Durham University
-          company_url: 'https://www.durham.ac.uk/departments/academic/mathematical-sciences/'
-          company_logo:
+          company: Durham Univeristy
+          company_url: ''
+          company_logo: 
           location: Durham, UK
           date_start: '2023-10-02'
           date_end: ''
@@ -77,19 +77,19 @@ sections:
               * Deploying
         - title: Research Assistant
           company: University of St Andrews
-          company_url: 'https://medicine.st-andrews.ac.uk/igh/hatua/'
-          company_logo:
+          company_url: ''
+          company_logo: 
           location: St Andrews, UK
           date_start: '2022-09-19'
           date_end: '2023-01-31'
-          description: This position involves contributing to the Holistic Approach to Unraveling Antibiotic Resistance in East Africa (HATUA) consortium. This consortium, funded by the MRC, is an international and interdisciplinary effort aimed at exploring the drivers of antibiotic resistance in East Africa. The main HATUA study considered risk factors at environmental, socio-ecological, biological, behavioural, and community levels within three East African countries. At the heart of the HATUA study was a routinely-collected and linked data set comprising 1,800 patients, with one-third of them confirmed to have culture-confirmed UTIs. This dataset has since been expanded to include comprehensive medical profiles of patients, responses to patient and household questionnaires, in-depth interviews with drug vendors and medical professionals, as well as GPS location data for hospitals and residences. For data management, I merged geospatial information collected from study sites with data pertaining to multidrug-resistant (MDR) cases, using patient IDs as the common thread. Subsequently, I computed the prevalence of MDR in each study site. Finally, I crafted intricate, interactive maps that amalgamated diverse data sources, effectively illustrating the spatial distribution of MDR cases. In addition, my primary responsibilities include a) performing a comprehensive literature review of pertinent quantitative research articles that delve into the factors influencing antibiotic resistance at environmental, socio-ecological, biological, and community levels within three East African countries; b) creating data visualisations for publications to depict the geographical patterns of antibiotic resistance; c) engaging in scientific writing for the research paper. 
-        - title: Research Assistant
+          description: This position involves contributing to the Holistic Approach to Unraveling Antibiotic Resistance in East Africa (HATUA) consortium. This consortium, funded by the MRC, is an international and interdisciplinary effort aimed at exploring the drivers of antibiotic resistance in East Africa. The main HATUA study considered risk factors at environmental, socio-ecological, biological, behavioural, and community levels within three East African countries. At the heart of the HATUA study was a routinely-collected and linked data set comprising 1,800 patients, with one-third of them confirmed to have culture-confirmed UTIs. This dataset has since been expanded to include comprehensive medical profiles of patients, responses to patient and household questionnaires, in-depth interviews with drug vendors and medical professionals, as well as GPS location data for hospitals and residences. For data management, I merged geospatial information collected from study sites with data pertaining to multidrug-resistant (MDR) cases, using patient IDs as the common thread. Subsequently, I computed the prevalence of MDR in each study site. Finally, I crafted intricate, interactive maps that amalgamated diverse data sources, effectively illustrating the spatial distribution of MDR cases. My primary responsibilities include a) performing a comprehensive literature review of pertinent quantitative research articles that delve into the factors influencing antibiotic resistance at environmental, socio-ecological, biological, and community levels within three East African countries; b) creating data visualisations for publications to depict the geographical patterns of antibiotic resistance; c) engaging in scientific writing for the research paper.
+          - title: Research Assistant
           company: University of Plymouth
           company_url: ''
-          company_logo:
+          company_logo: 
           location: Plymouth, UK
           date_start: '2021-06-02'
-          date_end: '2022-09-03'
+          date_end: '2021-09-03'
           description: I collaborated with members of the NHS Trust on an intricate systematic review centred on clinical prediction models for survival outcomes among adult recipients of single kidney-only transplants. In my capacity as a second reviewer, my duties involved sourcing and reviewing a vast array of 4,026 citations. I independently assessed the titles and abstracts of all records and effectively resolved any conflicts through collaborative meetings. Subsequently, I embarked on the comprehensive review of the complete text of the 84 selected articles, meticulously adhering to our predefined inclusion criteria. Once again, any conflicts encountered during this process were judiciously addressed in meetings. In the final phase of this project, we meticulously summarised the characteristics of the 25 eligible articles and conducted random-effects meta-analyses. I am pleased to share that the resultant manuscript has been successfully published in Transplant International.
     design:
       columns: '2'
@@ -234,16 +234,16 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-- block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to drop me an email for our further connections.
+        Please feel free to drop me an email for our further connections!
       # Contact (add or remove contact options as necessary)
-      email: qing.zhang@durham.ac.uk | qing.zhang.990806@gmail.com
-      phone: +44 07592 57 0439
+      email: qing.zhang@durham.ac.uk
+      phone: +44 07592570439
       appointment_url: ''
       address:
         street: Stockton Road
@@ -254,7 +254,7 @@ sections:
         country_code: UK
       directions: #Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday to Friday 9:00 to 17:00 (UK Time)'
+        - 'Monday to Friday 9:00 to 17:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -263,7 +263,7 @@ sections:
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://us05web.zoom.us/j/4804126985?pwd=O2jYlKKPFn8ey0LUSCUUU3mmlRgKf8.1'
+          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
