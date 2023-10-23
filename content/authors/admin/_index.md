@@ -30,7 +30,7 @@ bio: My research interests include medical statistics and linear mixed models.
 # Interests to show in About widget
 interests:
   - Medical Statistics
-  - (Bayesian) Linear Mixed Model
+  - (Bayesian) (Generalised) Linear Mixed Model
   - Survival Analysis
   - Machine Learning
 
@@ -38,30 +38,33 @@ interests:
 education:
   courses:
     - course: MSc in Statistics
-      institution: University of St Andrews
+      institution: University of St Andrews (UK)
       year: 2021-2022
     - course: BSc (Hons) in Mathematics and Statistics
-      institution: University of Plymouth
+      institution: University of Plymouth (UK)
       year: 2020-2021
     - course: BSc in Statistics
-      institution: Yunnan University
+      institution: Yunnan University (China)
       year: 2017-2021
+    - course: Game Theory
+      institution: University of British Columbia
+      year:2019
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: R Programming
       description: ''
       percent: 80
-      icon: python
+      icon: computer
       icon_pack: fab
-    - name: Data Science
+    - name: Python
       description: ''
       percent: 100
-      icon: chart-line
-      icon_pack: fas
+      icon: python
+      icon_pack: fab
     - name: SQL
       description: ''
       percent: 40
@@ -71,15 +74,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Figure skating
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: ice-skate
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
@@ -97,13 +100,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/QingZ_Lavinia
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=Sr_DbHYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/QingZhang990806/
