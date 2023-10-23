@@ -90,7 +90,7 @@ sections:
           location: Plymouth, UK
           date_start: '2021-06-02'
           date_end: '2022-09-03'
-          description:
+          description: I collaborated with members of the NHS Trust on an intricate systematic review centred on clinical prediction models for survival outcomes among adult recipients of single kidney-only transplants. In my capacity as a second reviewer, my duties involved sourcing and reviewing a vast array of 4,026 citations. I independently assessed the titles and abstracts of all records and effectively resolved any conflicts through collaborative meetings. Subsequently, I embarked on the comprehensive review of the complete text of the 84 selected articles, meticulously adhering to our predefined inclusion criteria. Once again, any conflicts encountered during this process were judiciously addressed in meetings. In the final phase of this project, we meticulously summarised the characteristics of the 25 eligible articles and conducted random-effects meta-analyses. I am pleased to share that the resultant manuscript has been successfully published in Transplant International.
     design:
       columns: '2'
   #- block: accomplishments
