@@ -63,12 +63,12 @@ skills:
     - name: R (Programming)
       description: ''
       percent: 80
-      icon: display-chart-up
+      icon: display
       icon_pack: fas
     - name: SAS (Programming)
       description: ''
       percent: 60
-      icon: display-chart-up
+      icon: display
       icon_pack: fas
     - name: Python (Programming)
       description: ''
@@ -109,8 +109,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=Sr_DbHYAAAAJ
   - icon: github
     icon_pack: fab
