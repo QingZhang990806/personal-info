@@ -93,7 +93,6 @@ sections:
           description: I collaborated with members of the NHS Trust on an intricate systematic review centred on clinical prediction models for survival outcomes among adult recipients of single kidney-only transplants. In my capacity as a second reviewer, my duties involved sourcing and reviewing a vast array of 4,026 citations. I independently assessed the titles and abstracts of all records and effectively resolved any conflicts through collaborative meetings. Subsequently, I embarked on the comprehensive review of the complete text of the 84 selected articles, meticulously adhering to our predefined inclusion criteria. Once again, any conflicts encountered during this process were judiciously addressed in meetings. In the final phase of this project, we meticulously summarised the characteristics of the 25 eligible articles and conducted random-effects meta-analyses. I am pleased to share that the resultant manuscript has been successfully published in Transplant International.
     design:
       columns: '2'
- 
  #- block: accomplishments
   #  content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -133,7 +132,6 @@ sections:
   #        url: ''
   #  design:
   #    columns: '2'
-
 #- block: collection
   #  id: posts
   #  content:
@@ -160,8 +158,7 @@ sections:
   #  design:
       # Choose a layout view
   #    view: compact
-  #    columns: '2'
-  
+  #    columns: '2' 
   #- block: portfolio
   #  id: projects
   #  content:
@@ -189,7 +186,6 @@ sections:
   #    view: showcase
       # For Showcase view, flip alternate rows?
   #    flip_alt_rows: false
-  
   #- block: markdown
   #  content:
   #    title: Gallery
@@ -198,7 +194,6 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-
 #- block: collection
   #  id: featured
   #  content:
@@ -210,7 +205,6 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
-
 - block: collection
     content:
       title: Recent Publications
@@ -225,7 +219,6 @@ sections:
     design:
       columns: '2'
       view: citation
- 
  #- block: collection
   #  id: talks
   #  content:
@@ -241,7 +234,6 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-
 - block: contact
     id: contact
     content:
