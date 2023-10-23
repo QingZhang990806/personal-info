@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qing Zhang
+title: 张晴 Qing Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: Qing Zhang
@@ -25,7 +25,7 @@ organizations:
     url: https://www.durham.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include medical statistics and linear mixed models.
+bio: My research interests include medical statistics, linear mixed models and epidemiology.
 
 # Interests to show in About widget
 interests:
@@ -39,16 +39,16 @@ education:
   courses:
     - course: MSc in Statistics
       institution: University of St Andrews (UK)
-      year: 2021-2022
-    - course: BSc (Hons) in Mathematics and Statistics
-      institution: University of Plymouth (UK)
-      year: 2020-2021
+      year: 2022
+    - course: BSc in Mathematics and Statistics
+      institution: Univiersity of Plymouth (UK)
+      year: 2021
     - course: BSc in Statistics
       institution: Yunnan University (China)
-      year: 2017-2021
+      year: 2021
     - course: Game Theory
       institution: University of British Columbia (Canada)
-      year:2019
+      year: 2021
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,9 +57,14 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 100
+      percent: 80
       icon: python
       icon_pack: fab
+    - name: Data Science
+      description: ''
+      percent: 100
+      icon: chart-line
+      icon_pack: fas
     - name: SQL
       description: ''
       percent: 40
@@ -69,6 +74,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
       - name: Dogs
         description: ''
         percent: 100
@@ -94,12 +104,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=Sr_DbHYAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=Sr_DbHYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/QingZhang990806/
+    link: https://github.com/QingZhang990806
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/qingzhangstatistics/
@@ -108,11 +118,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Qing_Zhang_CV(1).pdf
+    link: uploads/Qing_Zhang_CV (1).pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Qing Zhang is a Research Assistant of Biostatistics at the Durham University. Her research interests include medical statistics and linear mixed models. She joins the Biostatistics Unit at the Durham University.
+Qing Zhang is a Research Assistant at the Durham Biostatistics Unit. Her research interests include medical statistics, linear mixed models and epidemiology.
 {style="text-align: justify;"}
